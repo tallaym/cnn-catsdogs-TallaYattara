@@ -1,1 +1,0 @@
-# cnn-catsdogs-TallaYattara
